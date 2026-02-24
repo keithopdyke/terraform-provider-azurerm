@@ -1,4 +1,4 @@
-module github.com/hashicorp/terraform-provider-azurerm
+module github.com/keithopdyke/terraform-provider-azurerm
 
 require (
 	github.com/Azure/azure-sdk-for-go v66.0.0+incompatible
@@ -16,23 +16,23 @@ require (
 	github.com/golang-jwt/jwt/v4 v4.5.2
 	github.com/google/go-cmp v0.7.0
 	github.com/google/uuid v1.6.0
-	github.com/hashicorp/go-azure-helpers v0.76.2
-	github.com/hashicorp/go-azure-sdk/resource-manager v0.20260212.1143955
-	github.com/hashicorp/go-azure-sdk/sdk v0.20260212.1143955
-	github.com/hashicorp/go-cty v1.5.0
-	github.com/hashicorp/go-hclog v1.6.3
-	github.com/hashicorp/go-multierror v1.1.1
-	github.com/hashicorp/go-set/v3 v3.0.1
-	github.com/hashicorp/go-uuid v1.0.3
-	github.com/hashicorp/go-version v1.7.0
-	github.com/hashicorp/terraform-json v0.27.2
-	github.com/hashicorp/terraform-plugin-framework v1.16.1
-	github.com/hashicorp/terraform-plugin-framework-timeouts v0.6.0
-	github.com/hashicorp/terraform-plugin-framework-validators v0.19.0
-	github.com/hashicorp/terraform-plugin-go v0.29.0
-	github.com/hashicorp/terraform-plugin-mux v0.21.0
-	github.com/hashicorp/terraform-plugin-sdk/v2 v2.38.1
-	github.com/hashicorp/terraform-plugin-testing v1.14.0
+	github.com/keithopdyke/go-azure-helpers v0.76.2
+	github.com/keithopdyke/go-azure-sdk/resource-manager v0.20260212.1143955
+	github.com/keithopdyke/go-azure-sdk/sdk v0.20260212.1143955
+	github.com/keithopdyke/go-cty v1.5.0
+	github.com/keithopdyke/go-hclog v1.6.3
+	github.com/keithopdyke/go-multierror v1.1.1
+	github.com/keithopdyke/go-set/v3 v3.0.1
+	github.com/keithopdyke/go-uuid v1.0.3
+	github.com/keithopdyke/go-version v1.7.0
+	github.com/keithopdyke/terraform-json v0.27.2
+	github.com/keithopdyke/terraform-plugin-framework v1.16.1
+	github.com/keithopdyke/terraform-plugin-framework-timeouts v0.6.0
+	github.com/keithopdyke/terraform-plugin-framework-validators v0.19.0
+	github.com/keithopdyke/terraform-plugin-go v0.29.0
+	github.com/keithopdyke/terraform-plugin-mux v0.21.0
+	github.com/keithopdyke/terraform-plugin-sdk/v2 v2.38.1
+	github.com/keithopdyke/terraform-plugin-testing v1.14.0
 	github.com/iancoleman/strcase v0.3.0
 	github.com/jackofallops/giovanni v0.28.0
 	github.com/jackofallops/kermit v0.20241010.1180132
@@ -65,19 +65,19 @@ require (
 	github.com/bgentry/speakeasy v0.2.0 // indirect
 	github.com/cloudflare/circl v1.6.1 // indirect
 	github.com/golang/protobuf v1.5.4 // indirect
-	github.com/hashicorp/errwrap v1.1.0 // indirect
-	github.com/hashicorp/go-checkpoint v0.5.0 // indirect
-	github.com/hashicorp/go-cleanhttp v0.5.2 // indirect
-	github.com/hashicorp/go-plugin v1.7.0 // indirect
-	github.com/hashicorp/go-retryablehttp v0.7.8 // indirect
-	github.com/hashicorp/hc-install v0.9.2 // indirect
-	github.com/hashicorp/hcl/v2 v2.24.0 // indirect
-	github.com/hashicorp/logutils v1.0.0 // indirect
-	github.com/hashicorp/terraform-exec v0.24.0 // indirect
-	github.com/hashicorp/terraform-plugin-log v0.10.0 // indirect
-	github.com/hashicorp/terraform-registry-address v0.4.0 // indirect
-	github.com/hashicorp/terraform-svchost v0.1.1 // indirect
-	github.com/hashicorp/yamux v0.1.2 // indirect
+	github.com/keithopdyke/errwrap v1.1.0 // indirect
+	github.com/keithopdyke/go-checkpoint v0.5.0 // indirect
+	github.com/keithopdyke/go-cleanhttp v0.5.2 // indirect
+	github.com/keithopdyke/go-plugin v1.7.0 // indirect
+	github.com/keithopdyke/go-retryablehttp v0.7.8 // indirect
+	github.com/keithopdyke/hc-install v0.9.2 // indirect
+	github.com/keithopdyke/hcl/v2 v2.24.0 // indirect
+	github.com/keithopdyke/logutils v1.0.0 // indirect
+	github.com/keithopdyke/terraform-exec v0.24.0 // indirect
+	github.com/keithopdyke/terraform-plugin-log v0.10.0 // indirect
+	github.com/keithopdyke/terraform-registry-address v0.4.0 // indirect
+	github.com/keithopdyke/terraform-svchost v0.1.1 // indirect
+	github.com/keithopdyke/yamux v0.1.2 // indirect
 	github.com/huandu/xstrings v1.5.0 // indirect
 	github.com/inconshreveable/mousetrap v1.1.0 // indirect
 	github.com/mattn/go-colorable v0.1.14 // indirect
